@@ -1,4 +1,5 @@
 project_name = "AWS-3tier"
+
 cidr_block = "155.0.0.0/16"
 
 availability_zones = [ "eu-north-1a", "eu-north-1b"] # default [ "eu-north-1a", "eu-north-1b" ]
